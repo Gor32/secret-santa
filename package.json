@@ -1,0 +1,28 @@
+{
+  "name": "secret-santa",
+  "version": "1.0.0",
+  "description": "secret santa api sending mail users where writing whom should a gift be given",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//Gor32/secret-santa.git"
+  },
+  "keywords": [
+    "secret",
+    "santa",
+    "santa",
+    "santa",
+    "secret"
+  ],
+  "dependencies": {
+    "express": "4.16.4",
+    "http": "0.0.0",
+    "promise": "8.0.2",
+    "nodemailer": "4.7.0"
+  },
+  "author": "Gor Kirakosyan",
+  "license": "ISC"
+}
